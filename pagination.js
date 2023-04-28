@@ -1,8 +1,6 @@
 /*
- * Use submitForm function with onsubmit event to submit form data to server
- * Ex:-  <form onsubmit="submitForm(event, serverUrl, resultFunc)" id="form" novalidate> </form>
  *
- * Use fetchResult function to get server response
+ * Use ServerCall class to get server response
  */
 
 class ServerCall {
